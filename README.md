@@ -6,8 +6,8 @@
 
 The offical implementation of our work: <strong>CityLoc: 6DoF Pose Distributional Localization for Text Descriptions in Large-Scale Scenes with Gaussian Representation</strong>.
 
-#### $^\star$[Qi Ma](https://qimaqi.github.io/)<sup>1,2</sup>, $^\star$[Runyi Yang](https://runyiyang.github.io/)<sup>2</sup>, $^\dagger$[Bin Ren](https://amazingren.github.io/)<sup>2,3,4</sup>, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)<sup>4</sup>, [Ender Konukoglu](https://people.ee.ethz.ch/~kender/) <sup>1</sup>, [Luc Van Gool ](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)<sup>1,2</sup>, and [Danda Pani Paudel](https://scholar.google.com/citations?user=W43pvPkAAAAJ&hl=en)<sup>1,2</sup> 
-$^\star$: Equal Contribution, $^\dagger$: Corresponding Author <br>
+#### [Qi Ma](https://qimaqi.github.io/)<sup>1,2</sup>, [Runyi Yang](https://runyiyang.github.io/)<sup>2</sup>, $^\dagger$[Bin Ren](https://amazingren.github.io/)<sup>2,3,4</sup>, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)<sup>4</sup>, [Ender Konukoglu](https://people.ee.ethz.ch/~kender/) <sup>1</sup>, [Luc Van Gool ](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)<sup>1,2</sup>, and [Danda Pani Paudel](https://scholar.google.com/citations?user=W43pvPkAAAAJ&hl=en)<sup>1,2</sup> 
+$^\dagger$: Corresponding Author <br>
 
 <sup>1</sup> ETH Zürich, Switzerland <br>
 <sup>2</sup> INSAIT Sofia University “St. Kliment Ohridski”, Bulgaria <br>
