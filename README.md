@@ -6,13 +6,13 @@
 
 The offical implementation of our work: <strong>CityLoc: 6DoF Pose Distributional Localization for Text Descriptions in Large-Scale Scenes with Gaussian Representation</strong>.
 
-#### $^\star$[Qi Ma](https://qimaqi.github.io/)<sup>1,2</sup>, $^\star$[Runyi Yang](https://runyiyang.github.io/)<sup>2</sup>, $^\dagger$[Bin Ren](https://amazingren.github.io/)<sup>2,4,5</sup>, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)<sup>5</sup>, [Ender Konukoglu](https://people.ee.ethz.ch/~kender/) <sup>1</sup>, [Luc Van Gool ](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)<sup>1,2</sup>, and [Danda Pani Paudel](https://scholar.google.com/citations?user=W43pvPkAAAAJ&hl=en)<sup>1,2</sup> 
+#### $^\star$[Qi Ma](https://qimaqi.github.io/)<sup>1,2</sup>, $^\star$[Runyi Yang](https://runyiyang.github.io/)<sup>2</sup>, $^\dagger$[Bin Ren](https://amazingren.github.io/)<sup>2,3,4</sup>, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)<sup>4</sup>, [Ender Konukoglu](https://people.ee.ethz.ch/~kender/) <sup>1</sup>, [Luc Van Gool ](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)<sup>1,2</sup>, and [Danda Pani Paudel](https://scholar.google.com/citations?user=W43pvPkAAAAJ&hl=en)<sup>1,2</sup> 
 $^\star$: Equal Contribution, $^\dagger$: Corresponding Author <br>
 
 <sup>1</sup> ETH Zürich, Switzerland <br>
-<sup>2</sup> INSAIT Sofia University, Bulgaria <br>
-<sup>4</sup> University of Pisa, Italy <br>
-<sup>5</sup> University of Trento, Italy <br>
+<sup>2</sup> INSAIT Sofia University “St. Kliment Ohridski”, Bulgaria <br>
+<sup>3</sup> University of Pisa, Italy <br>
+<sup>4</sup> University of Trento, Italy <br>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2408.10906-blue?logo=arxiv&color=%23B31B1B)](https://arxiv.org/abs/2501.08982)
 [![CityLoc Project Page](https://img.shields.io/badge/CityLoc-Project%20Page-red?logo=globe)](https://runyiyang.github.io/projects/cityloc/)
@@ -31,9 +31,9 @@ If you find our work helpful, please consider citing the following papers and/or
 <div style="max-width: 1200px; overflow-x: auto;">
 <pre>
 <code>
-@article{ma2025cityloc,
-      title={CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation},
-      author={Ma, Qi and Yang, Runyi and Ren, Bin and Konukoglu, Ender and Van Gool, Luc and Paudel, Danda Pani},
+@misc{ma2025cityloc,
+      title={CityLoc: 6DoF Pose Distributional Localization for Text Descriptions in Large-Scale Scenes with Gaussian Representation},
+      author={Ma, Qi and Yang, Runyi and Ren, Bin and Sebe, Nicu and Konukoglu, Ender and Van Gool, Luc and Paudel, Danda Pani},
       journal={arXiv preprint arXiv:2501.08982},
       year={2025}
     }
