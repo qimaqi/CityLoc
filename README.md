@@ -6,7 +6,7 @@
 
 The offical implementation of our work: <strong>CityLoc: 6DoF Pose Distributional Localization for Text Descriptions in Large-Scale Scenes with Gaussian Representation</strong>.
 
-#### $^\star$[Qi Ma](https://qimaqi.github.io/)<sup>1,2</sup>, $^\star$[Runyi Yang](https://unique1i.github.io/)<sup>2</sup>, $^\dagger$[Bin Ren](https://amazingren.github.io/)<sup>2,4,5</sup>, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)<sup>5</sup>, [Ender Konukoglu](https://people.ee.ethz.ch/~kender/) <sup>1</sup>, [Luc Van Gool ](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)<sup>1,2</sup>, and [Danda Pani Paudel](https://scholar.google.com/citations?user=W43pvPkAAAAJ&hl=en)<sup>1,2</sup> 
+#### $^\star$[Qi Ma](https://qimaqi.github.io/)<sup>1,2</sup>, $^\star$[Runyi Yang](https://runyiyang.github.io/)<sup>2</sup>, $^\dagger$[Bin Ren](https://amazingren.github.io/)<sup>2,4,5</sup>, [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)<sup>5</sup>, [Ender Konukoglu](https://people.ee.ethz.ch/~kender/) <sup>1</sup>, [Luc Van Gool ](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)<sup>1,2</sup>, and [Danda Pani Paudel](https://scholar.google.com/citations?user=W43pvPkAAAAJ&hl=en)<sup>1,2</sup> 
 $^\star$: Equal Contribution, $^\dagger$: Corresponding Author <br>
 
 <sup>1</sup> ETH Zürich, Switzerland <br>
@@ -15,7 +15,7 @@ $^\star$: Equal Contribution, $^\dagger$: Corresponding Author <br>
 <sup>5</sup> University of Trento, Italy <br>
 
 [![arXiv](https://img.shields.io/badge/arXiv-2408.10906-blue?logo=arxiv&color=%23B31B1B)](https://arxiv.org/abs/2501.08982)
-[![CityLoc Project Page](https://img.shields.io/badge/ShapeSplat-Project%20Page-red?logo=globe)](https://runyiyang.github.io/projects/cityloc/)
+[![CityLoc Project Page](https://img.shields.io/badge/CityLoc-Project%20Page-red?logo=globe)](https://runyiyang.github.io/projects/cityloc/)
 <!-- [![CityLoc Dataset Release](https://img.shields.io/badge/ShapeSplat-Dataset%20Release-blue?logo=globe)](https://huggingface.co/datasets/ShapeNet/ShapeSplatsV1) -->
 <!-- [![ModelNetSplats Dataset Release](https://img.shields.io/badge/ModelNetSplats-Dataset%20Release-blue?logo=globe)](https://huggingface.co/datasets/ShapeSplats/ModelNet_Splats) -->
 
